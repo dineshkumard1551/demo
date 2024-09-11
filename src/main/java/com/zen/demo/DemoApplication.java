@@ -10,7 +10,6 @@ public class DemoApplication {
 		System.out.println("Create conflict");
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Application Started Successfully");
-
 	}
 
 }
